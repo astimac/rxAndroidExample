@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fragment_container" type="id" />
+    <item name="edit_text" type="id" />
+
+    <item name="list_item_album_title" type="id" />
+    <item name="list_item_album_year" type="id" />
+
+    <item name="lyrics_text_view" type="id" />
+</resources>
